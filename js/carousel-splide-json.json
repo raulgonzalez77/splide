@@ -1,84 +1,12 @@
 {
     "slides": [
         {
-            "alt": "Fall Registration",
+            "alt": "Fall Registration-3",
             "title": "Fall Registration.",
             "link": "https://www.blinn.edu/admissions/registration-information.html?utm_source=news-carousel&amp;utm_medium=registration-graphic",
             "endDate": "1787547600000",
-            "syncToken": "20260416-152212",
+            "syncToken": "20260416-152750",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/blinn-registration-graphic_april-29-may-10-2026_ig.jpg"
-        },
-        {
-            "alt": "Got Transfer Plans",
-            "title": "Got Transfer Plans",
-            "link": "https://nextgensso.com/sp/startSSO.ping?PartnerIdpId=https://ethos.blinn.edu:443/samlsso&amp;SpSessionAuthnAdapterId=blinn&amp;TargetResource=https%3a%2f%2fdynamicforms.ngwebsolutions.com%2fSubmit%2fStart%2fe497501a-8fa3-499f-8521-419c81c9a22f",
-            "endDate": "1798696800000",
-            "syncToken": "20260416-152212",
-            "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/transfer-intent-form_ig.jpg"
-        },
-        {
-            "alt": "Drone Fest.",
-            "title": "Drone Fest",
-            "link": "https://forms.office.com/Pages/ResponsePage.aspx?id=hYpEYAfQV02lg7_smOmcKS0LTJxjJ1VKlkJh8g6KCN5UMDVPM01GVkxLU0NWNFhBR0ZCQURYS05CQS4u",
-            "endDate": "1776402000000",
-            "syncToken": "20260416-152212",
-            "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/drone-fest-v3.jpg"
-        },
-        {
-            "alt": "Paralegal Program Online Information Sessions",
-            "title": "Paralegal Program Online Information Sessions",
-            "link": "https://www.blinn.edu/paralegal/index.html?utm_source=news-carousel&amp;utm_medium=paralegal-graphic",
-            "endDate": "1776528000000",
-            "syncToken": "20260416-152212",
-            "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/legal-assistant-information-session.jpg"
-        },
-        {
-            "alt": "Vocational Nursing Program",
-            "title": "Vocational Nursing Program",
-            "link": "https://www.blinn.edu/vocational-nursing/index.html?utm_source=news-carousel&amp;utm_medium=vocational-nursing",
-            "endDate": "1776402000000",
-            "syncToken": "20260416-152212",
-            "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/vocational-nursing-application.jpg"
-        },
-        {
-            "alt": "Tuba Recital",
-            "title": "Tuba Recital",
-            "link": "https://www.blinn.edu/music/index.hmtl?utm_source=news-carousel&amp;utm_medium=music-tuba-recital-graphic",
-            "endDate": "1777593600000",
-            "syncToken": "20260416-152212",
-            "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/music-faculty-recital-ethyn-evans-tuba_april-2026_ig.jpg"
-        },
-        {
-            "alt": "Massage Spring Fundraiser",
-            "title": "Massage Spring Fundraiser",
-            "link": "https://www.blinn.edu/physical-therapist-assistant/index.html?utm_source=news-carousel&amp;utm_medium=pta-graphic",
-            "endDate": "1777611600000",
-            "syncToken": "20260416-152212",
-            "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/physical-therapist-assistant-massage-fundraiser.jpg"
-        },
-        {
-            "alt": "Elijah",
-            "title": "Elijah",
-            "link": "https://www.blinn.edu/odonnell-center/index.html?utm_source=news-carousel&amp;utm_medium=elijah-graphic",
-            "endDate": "1778025600000",
-            "syncToken": "20260416-152212",
-            "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/music-choir-performance-elijah_ig.jpg"
-        },
-        {
-            "alt": "Spring Semester Closing",
-            "title": "Spring Semester Closing",
-            "link": "https://www.blinn.edu/housing/index.html?utm_source=news-carousel&amp;utm_medium=housing-graphic",
-            "endDate": "1778216400000",
-            "syncToken": "20260416-152212",
-            "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/housing-spring-2026-semester-closing.jpg"
-        },
-        {
-            "alt": "Blinn College-Waller Registration Days-n",
-            "title": "Blinn College-Waller Registration Days",
-            "link": "https://www.blinn.edu/waller/registration-days.html?utm_source=news-carousel&amp;utm_medium=waller-registration-graphic",
-            "endDate": "1781240400000",
-            "syncToken": "20260416-152212",
-            "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/waller-registration-days_june-2026.jpg"
         }
     ]
 }
