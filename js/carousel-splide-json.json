@@ -1,13 +1,13 @@
 {
     "slides": [
         {
-            "alt": "Fall Registration",
-            "title": "Fall Registration.",
-            "link": "https://www.blinn.edu/admissions/registration-information.html?utm_source=carousel&amp;utm_medium=registration-graphic",
-            "startDate": "1787547600000",
+            "alt": "Summer and Fall Registration",
+            "title": "Summer and Fall Registration",
+            "link": "https://www.blinn.edu/admissions/registration-information.html?utm_source=carousel&amp;utm_medium=summer-and-fall-registration-graphic-2026",
+            "startDate": "1778475600000",
             "endDate": "1787547600000",
             "syncToken": "20260508-085050",
-            "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/blinn-registration-graphic_april-29-may-10-2026_ig.jpg"
+            "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/blinn-registration-graphic_may-11-may-31-2026_ig.jpg"
         },
         {
             "alt": "Summer Camps Registration",
@@ -26,15 +26,6 @@
             "endDate": "1780203600000",
             "syncToken": "20260508-085050",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/business-flywire-payment-to-replace-nelnet_ig.jpg"
-        },
-        {
-            "alt": "Earn College Credits in Just 3 Weeks",
-            "title": "Earn College Credits in Just 3 Weeks",
-            "link": "https://www.blinn.edu/admissions/registration-information.html?utm_source=carousel&amp;utm_medium=may-minimester-graphic",
-            "startDate": "1777611600000",
-            "endDate": "1778475600000",
-            "syncToken": "20260508-085050",
-            "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/may-minimester-2026_ig.jpg"
         },
         {
             "alt": "Got Transfer Plans",
