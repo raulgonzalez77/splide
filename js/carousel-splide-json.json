@@ -6,7 +6,7 @@
             "link": "https://www.blinn.edu/admissions/registration-information.html?utm_source=carousel&amp;utm_medium=summer-and-fall-registration-graphic-2026",
             "startDate": "1778475600000",
             "endDate": "1787547600000",
-            "syncToken": "20260513-122558",
+            "syncToken": "20260514-063612",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/blinn-registration-graphic_may-11-may-31-2026_ig.jpg"
         },
         {
@@ -15,7 +15,7 @@
             "link": "https://www.blinn.edu/information-technology/fundamentals-ai-cloud.html?utm_source=carousel&amp;utm_medium=fundamentals-of-ai-graphic",
             "startDate": "1778648400000",
             "endDate": "1788152400000",
-            "syncToken": "20260513-122558",
+            "syncToken": "20260514-063612",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/itnw-1009.jpg"
         },
         {
@@ -24,7 +24,7 @@
             "link": "https://www.blinn.edu/ai-for-business/index.html?utm_source=carousel&amp;utm_medium=ai-for-business-graphic",
             "startDate": "1778648400000",
             "endDate": "1788152400000",
-            "syncToken": "20260513-122558",
+            "syncToken": "20260514-063612",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/artificial-intelligence-degrees.jpg"
         },
         {
@@ -33,7 +33,7 @@
             "link": "https://www.blinn.edu/summer-camps/index.html?utm_source=carousel&amp;utm_medium=summer-camps-graphic",
             "startDate": "1777870800000",
             "endDate": "1783659600000",
-            "syncToken": "20260513-122558",
+            "syncToken": "20260514-063612",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/summer-camps.jpg"
         },
         {
@@ -42,7 +42,7 @@
             "link": "https://www.blinn.edu/business-office/installment-payment-plan.html?utm_source=carousel&amp;utm_medium=flywire-graphic",
             "startDate": "1777870800000",
             "endDate": "1780203600000",
-            "syncToken": "20260513-122558",
+            "syncToken": "20260514-063612",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/business-flywire-payment-to-replace-nelnet_ig.jpg"
         },
         {
@@ -51,7 +51,7 @@
             "link": "https://nextgensso.com/sp/startSSO.ping?PartnerIdpId=https://ethos.blinn.edu:443/samlsso&amp;SpSessionAuthnAdapterId=blinn&amp;TargetResource=https%3a%2f%2fdynamicforms.ngwebsolutions.com%2fSubmit%2fStart%2fe497501a-8fa3-499f-8521-419c81c9a22f",
             "startDate": "1798696800000",
             "endDate": "1798747200000",
-            "syncToken": "20260513-122558",
+            "syncToken": "20260514-063612",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/transfer-intent-form_ig.jpg"
         },
         {
@@ -60,7 +60,7 @@
             "link": "https://www.blinn.edu/calendars",
             "startDate": "1779685200000",
             "endDate": "1779768000000",
-            "syncToken": "20260513-122558",
+            "syncToken": "20260514-063612",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/memorial-day-may-25.jpg"
         },
         {
@@ -69,8 +69,26 @@
             "link": "https://www.blinn.edu/waller/registration-days.html?utm_source=carousel&amp;utm_medium=waller-registration-days-graphic",
             "startDate": "1781240400000",
             "endDate": "1781240400000",
-            "syncToken": "20260513-122558",
+            "syncToken": "20260514-063612",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/waller-registration-days_june-2026.jpg"
+        },
+        {
+            "alt": "Juneteenth Freedom Day",
+            "title": "Juneteenth Freedom Day",
+            "link": "https://www.blinn.edu/index.html?utm_source=carousel&amp;utm_medium=junteenth-graphic",
+            "startDate": "1781499600000",
+            "endDate": "1781931600000",
+            "syncToken": "20260514-063612",
+            "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/juneteenth.jpg"
+        },
+        {
+            "alt": "Independence Day",
+            "title": "Independence Day",
+            "link": "https://www.blinn.edu/index.html?utm_source=carousel&amp;utm_medium=independence-day-graphic",
+            "startDate": "1782882000000",
+            "endDate": "1783314000000",
+            "syncToken": "20260514-063612",
+            "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/independence-day.jpg"
         },
         {
             "alt": "Veterinary Technology Program Information Sessions.",
@@ -78,7 +96,7 @@
             "link": "https://www.blinn.edu/veterinary-technology/information-sessions.html?utm_source=carousel&amp;utm_medium=veterinary-technology-program-info-sessions-graphic",
             "startDate": "1784919600000",
             "endDate": "1784926800000",
-            "syncToken": "20260513-122558",
+            "syncToken": "20260514-063612",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/veterinary-technology-information-session_july-2026_ig.jpg"
         }
     ]
