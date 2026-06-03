@@ -7,7 +7,7 @@
             "promoType": "registration-open",
             "startDate": "1778475600000",
             "endDate": "1787547600000",
-            "syncToken": "20260602-111921",
+            "syncToken": "20260603-065109",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/blinn-registration-graphic-june-1-july-5-2026.jpg"
         },
         {
@@ -17,7 +17,7 @@
             "promoType": "registration-open",
             "startDate": "1778648400000",
             "endDate": "1783314000000",
-            "syncToken": "20260602-111921",
+            "syncToken": "20260603-065109",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/itnw-1009.jpg"
         },
         {
@@ -27,7 +27,7 @@
             "promoType": "whats-new",
             "startDate": "1779771600000",
             "endDate": "1787720400000",
-            "syncToken": "20260602-111921",
+            "syncToken": "20260603-065109",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/bryan-theatre-season-2026-2027_come-from-away_auditions.jpg"
         },
         {
@@ -37,7 +37,7 @@
             "promoType": "whats-new",
             "startDate": "1778648400000",
             "endDate": "1788152400000",
-            "syncToken": "20260602-111921",
+            "syncToken": "20260603-065109",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/artificial-intelligence-degrees.jpg"
         },
         {
@@ -47,7 +47,7 @@
             "promoType": "registration-open",
             "startDate": "1777870800000",
             "endDate": "1783659600000",
-            "syncToken": "20260602-111921",
+            "syncToken": "20260603-065109",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/summer-camps.jpg"
         },
         {
@@ -57,48 +57,8 @@
             "promoType": "whats-new",
             "startDate": "1777870800000",
             "endDate": "1782795600000",
-            "syncToken": "20260602-111921",
+            "syncToken": "20260603-065109",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/business-flywire-payment-to-replace-nelnet_ig.jpg"
-        },
-        {
-            "alt": "Got Transfer Plans",
-            "title": "Got Transfer Plans",
-            "link": "https://nextgensso.com/sp/startSSO.ping?PartnerIdpId=https://ethos.blinn.edu:443/samlsso&amp;SpSessionAuthnAdapterId=blinn&amp;TargetResource=https%3a%2f%2fdynamicforms.ngwebsolutions.com%2fSubmit%2fStart%2fe497501a-8fa3-499f-8521-419c81c9a22f",
-            "promoType": "whats-new",
-            "startDate": "1798696800000",
-            "endDate": "1798747200000",
-            "syncToken": "20260602-111921",
-            "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/transfer-intent-form_ig.jpg"
-        },
-        {
-            "alt": "Blinn College-Waller Registration Days-p",
-            "title": "Blinn College-Waller Registration Days",
-            "link": "https://www.blinn.edu/waller/registration-days.html?utm_source=carousel&amp;utm_medium=waller-registration-days-graphic",
-            "promoType": "registration-open",
-            "startDate": "1781240400000",
-            "endDate": "1781240400000",
-            "syncToken": "20260602-111921",
-            "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/waller-registration-days_june-2026.jpg"
-        },
-        {
-            "alt": "Veterinary Technology Program Info Session.",
-            "title": "Veterinary Technology Program Information Sessions",
-            "link": "https://www.blinn.edu/veterinary-technology/information-sessions.html?utm_source=carousel&amp;utm_medium=veterinary-technology-program-info-sessions-graphic",
-            "promoType": "registration-open",
-            "startDate": "1784919600000",
-            "endDate": "1784926800000",
-            "syncToken": "20260602-111921",
-            "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/veterinary-technology-information-session_july-2026_ig.jpg"
-        },
-        {
-            "alt": "Audition for Our Town",
-            "title": "Audition for Our Town",
-            "link": "https://www.blinn.edu/theatre/index.html?utm_source=carousel&amp;utm_medium=audition-for-out-town-graphic",
-            "promoType": "whats-new",
-            "startDate": "1797746400000",
-            "endDate": "1800424800000",
-            "syncToken": "20260602-111921",
-            "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/bryan-theatre-season-2026-2027_our-town_auditions_ig.jpg"
         }
     ]
 }
