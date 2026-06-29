@@ -7,7 +7,7 @@
             "promoType": "registration-open",
             "startDate": "1778475600000",
             "endDate": "1787547600000",
-            "syncToken": "20260623-100937",
+            "syncToken": "20260629-134449",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/blinn-registration-graphic-june-1-july-5-2026.jpg"
         },
         {
@@ -17,7 +17,7 @@
             "promoType": "registration-open",
             "startDate": "1778648400000",
             "endDate": "1783314000000",
-            "syncToken": "20260623-100937",
+            "syncToken": "20260629-134449",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/itnw-1009.jpg"
         },
         {
@@ -27,7 +27,7 @@
             "promoType": "whats-new",
             "startDate": "1778648400000",
             "endDate": "1788152400000",
-            "syncToken": "20260623-100937",
+            "syncToken": "20260629-134449",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/artificial-intelligence-degrees.jpg"
         },
         {
@@ -37,7 +37,7 @@
             "promoType": "registration-open",
             "startDate": "1777870800000",
             "endDate": "1783659600000",
-            "syncToken": "20260623-100937",
+            "syncToken": "20260629-134449",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/summer-camps.jpg"
         },
         {
@@ -47,7 +47,7 @@
             "promoType": "whats-new",
             "startDate": "1777870800000",
             "endDate": "1782795600000",
-            "syncToken": "20260623-100937",
+            "syncToken": "20260629-134449",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/business-flywire-payment-to-replace-nelnet_ig.jpg"
         },
         {
@@ -57,7 +57,7 @@
             "promoType": "whats-new",
             "startDate": "1777611600000",
             "endDate": "1798747200000",
-            "syncToken": "20260623-100937",
+            "syncToken": "20260629-134449",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/transfer-intent-form_ig.jpg"
         },
         {
@@ -67,7 +67,7 @@
             "promoType": "whats-new",
             "startDate": "1782190800000",
             "endDate": "1787547600000",
-            "syncToken": "20260623-100937",
+            "syncToken": "20260629-134449",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/marketing-housing-campaign.jpg"
         },
         {
@@ -77,8 +77,28 @@
             "promoType": "whats-new",
             "startDate": "1780462800000",
             "endDate": "1798696800000",
-            "syncToken": "20260623-100937",
+            "syncToken": "20260629-134449",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/emergency-medical-technician-certification-waller-campus.jpg"
+        },
+        {
+            "alt": "Veterinary Technology Program Info Session.",
+            "title": "Veterinary Technology Program Information Sessions",
+            "link": "https://www.blinn.edu/veterinary-technology/information-sessions.html?utm_source=carousel&amp;utm_medium=veterinary-technology-program-info-sessions-graphic",
+            "promoType": "whats-new",
+            "startDate": "1782500400000",
+            "endDate": "1784926800000",
+            "syncToken": "20260629-134449",
+            "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/veterinary-technology-information-session_july-2026_ig.jpg"
+        },
+        {
+            "alt": "Fall Intramurals - Ready to Play?",
+            "title": "Fall Intramurals - Ready to Play?",
+            "link": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=hYpEYAfQV02lg7_smOmcKQ5syUdu5eRNkkkRnJIImK5URVUwTlc4QVZRQklINjFEMlVaUTNXVldHSC4u&amp;route=shorturl",
+            "promoType": "whats-new",
+            "startDate": "1782709200000",
+            "endDate": "1788152400000",
+            "syncToken": "20260629-134449",
+            "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/student-leadership-and-activities-intramurals.jpg"
         }
     ]
 }
