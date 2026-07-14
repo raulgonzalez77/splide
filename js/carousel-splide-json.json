@@ -7,7 +7,7 @@
             "promoType": "registration-open",
             "startDate": "1778475600000",
             "endDate": "1787547600000",
-            "syncToken": "20260714-105505",
+            "syncToken": "20260714-110021",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/blinn-registration-graphic_july-5-aug-24-2026_ig.jpg"
         },
         {
@@ -17,7 +17,7 @@
             "promoType": "registration-open",
             "startDate": "1783573200000",
             "endDate": "1784696400000",
-            "syncToken": "20260714-105505",
+            "syncToken": "20260714-110021",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/blinn-registration-graphic_july-1-24-2026_v2.jpg"
         },
         {
@@ -27,7 +27,7 @@
             "promoType": "whats-new",
             "startDate": "1778648400000",
             "endDate": "1788152400000",
-            "syncToken": "20260714-105505",
+            "syncToken": "20260714-110021",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/artificial-intelligence-degrees.jpg"
         },
         {
@@ -37,7 +37,7 @@
             "promoType": "whats-new",
             "startDate": "1777611600000",
             "endDate": "1798747200000",
-            "syncToken": "20260714-105505",
+            "syncToken": "20260714-110021",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/transfer-intent-form_ig.jpg"
         },
         {
@@ -47,7 +47,7 @@
             "promoType": "whats-new",
             "startDate": "1782190800000",
             "endDate": "1787547600000",
-            "syncToken": "20260714-105505",
+            "syncToken": "20260714-110021",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/marketing-housing-campaign.jpg"
         },
         {
@@ -57,7 +57,7 @@
             "promoType": "whats-new",
             "startDate": "1780462800000",
             "endDate": "1798696800000",
-            "syncToken": "20260714-105505",
+            "syncToken": "20260714-110021",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/emergency-medical-technician-certification-waller-campus.jpg"
         },
         {
@@ -67,7 +67,7 @@
             "promoType": "whats-new",
             "startDate": "1782500400000",
             "endDate": "1784926800000",
-            "syncToken": "20260714-105505",
+            "syncToken": "20260714-110021",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/veterinary-technology-information-session_july-2026_ig.jpg"
         },
         {
@@ -77,17 +77,17 @@
             "promoType": "whats-new",
             "startDate": "1782709200000",
             "endDate": "1788152400000",
-            "syncToken": "20260714-105505",
+            "syncToken": "20260714-110021",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/student-leadership-and-activities-intramurals.jpg"
         },
         {
             "alt": "Music Band Experience",
             "title": "Music Band Experience",
             "link": "https://www.blinn.edu/music/experience.htmll?utm_source=carousel&amp;utm_medium=music-band-experience-graphic",
-            "promoType": "save-the-date",
+            "promoType": "whats-new",
             "startDate": "1784005200000",
             "endDate": "1788584400000",
-            "syncToken": "20260714-105505",
+            "syncToken": "20260714-110021",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/music-buccaneer-band-experience.jpg"
         }
     ]
