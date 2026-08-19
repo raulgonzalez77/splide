@@ -7,7 +7,7 @@
             "promoType": "registration-open",
             "startDate": "1778475600000",
             "endDate": "1787547600000",
-            "syncToken": "20260729-152335",
+            "syncToken": "20260819-122640",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/blinn-registration-graphic_july-5-aug-24-2026_ig.jpg"
         },
         {
@@ -17,7 +17,7 @@
             "promoType": "whats-new",
             "startDate": "1785042000000",
             "endDate": "1787720400000",
-            "syncToken": "20260729-152335",
+            "syncToken": "20260819-122640",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/bryan-theatre-season-2026-2027_come-from-away_auditions.jpg"
         },
         {
@@ -27,7 +27,7 @@
             "promoType": "whats-new",
             "startDate": "1778648400000",
             "endDate": "1788152400000",
-            "syncToken": "20260729-152335",
+            "syncToken": "20260819-122640",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/artificial-intelligence-degrees.jpg"
         },
         {
@@ -37,7 +37,7 @@
             "promoType": "whats-new",
             "startDate": "1777611600000",
             "endDate": "1798747200000",
-            "syncToken": "20260729-152335",
+            "syncToken": "20260819-122640",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/transfer-intent-form_ig.jpg"
         },
         {
@@ -47,7 +47,7 @@
             "promoType": "whats-new",
             "startDate": "1782190800000",
             "endDate": "1787547600000",
-            "syncToken": "20260729-152335",
+            "syncToken": "20260819-122640",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/marketing-housing-campaign.jpg"
         },
         {
@@ -57,7 +57,7 @@
             "promoType": "whats-new",
             "startDate": "1780462800000",
             "endDate": "1798696800000",
-            "syncToken": "20260729-152335",
+            "syncToken": "20260819-122640",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/emergency-medical-technician-certification-waller-campus.jpg"
         },
         {
@@ -67,8 +67,18 @@
             "promoType": "whats-new",
             "startDate": "1782709200000",
             "endDate": "1788152400000",
-            "syncToken": "20260729-152335",
+            "syncToken": "20260819-122640",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/student-leadership-and-activities-intramurals.jpg"
+        },
+        {
+            "alt": " RELLIS Welcome Month",
+            "title": "RELLIS Welcome Month",
+            "link": "https://www.blinn.edu/student-leadership-activities/index.html?utm_source=carousel&amp;utm_medium=rellis-welcome-month-graphic",
+            "promoType": "save-the-date",
+            "startDate": "1786942800000",
+            "endDate": "1788843600000",
+            "syncToken": "20260819-122640",
+            "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/student-leadership-and-activities-rellis_welcome-month_fall-2026.jpg"
         },
         {
             "alt": "Music Band Experience",
@@ -77,7 +87,7 @@
             "promoType": "whats-new",
             "startDate": "1784005200000",
             "endDate": "1788584400000",
-            "syncToken": "20260729-152335",
+            "syncToken": "20260819-122640",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/music-buccaneer-band-experience.jpg"
         },
         {
@@ -87,8 +97,18 @@
             "promoType": "whats-new",
             "startDate": "1784091600000",
             "endDate": "1797314400000",
-            "syncToken": "20260729-152335",
+            "syncToken": "20260819-122640",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/library-cloudlibrary-launch-campaign_ig.jpg"
+        },
+        {
+            "alt": "Choral Society",
+            "title": "Choral Society",
+            "link": "https://www.blinn.edu/music/index.html",
+            "promoType": "whats-new",
+            "startDate": "1787115600000",
+            "endDate": "1798696800000",
+            "syncToken": "20260819-122640",
+            "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/music-tuesday-evening-choral-society2_fall-2026_ig.jpg"
         }
     ]
 }
