@@ -7,7 +7,7 @@
             "promoType": "registration-open",
             "startDate": "1787547600000",
             "endDate": "1798696800000",
-            "syncToken": "20260909-103009",
+            "syncToken": "20260914-111700",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/blinn-registration-fall-2026-12-week-second-8-week.jpg"
         },
         {
@@ -17,7 +17,7 @@
             "promoType": "whats-new",
             "startDate": "1777611600000",
             "endDate": "1798747200000",
-            "syncToken": "20260909-103009",
+            "syncToken": "20260914-111700",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/transfer-intent-form_ig.jpg"
         },
         {
@@ -27,7 +27,7 @@
             "promoType": "whats-new",
             "startDate": "1780462800000",
             "endDate": "1798696800000",
-            "syncToken": "20260909-103009",
+            "syncToken": "20260914-111700",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/emergency-medical-technician-certification-waller-campus.jpg"
         },
         {
@@ -37,7 +37,7 @@
             "promoType": "whats-new",
             "startDate": "1784091600000",
             "endDate": "1797314400000",
-            "syncToken": "20260909-103009",
+            "syncToken": "20260914-111700",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/library-cloudlibrary-launch-campaign_ig.jpg"
         },
         {
@@ -47,17 +47,17 @@
             "promoType": "whats-new",
             "startDate": "1787115600000",
             "endDate": "1798696800000",
-            "syncToken": "20260909-103009",
+            "syncToken": "20260914-111700",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/music-tuesday-evening-choral-society2_fall-2026_ig.jpg"
         },
         {
             "alt": "Drone Specialization Certificate",
             "title": "Drone Specialization Certificate",
-            "link": "https://www.blinn.edu/criminal-justice/indx.html",
+            "link": "https://www.blinn.edu/criminal-justice/index.html",
             "promoType": "whats-new",
             "startDate": "1787115600000",
             "endDate": "1798696800000",
-            "syncToken": "20260909-103009",
+            "syncToken": "20260914-111700",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/criminal-justice-drone-specialization-new-osa-and-certificate_ig.jpg"
         },
         {
@@ -67,7 +67,7 @@
             "promoType": "whats-new",
             "startDate": "1788930000000",
             "endDate": "1798696800000",
-            "syncToken": "20260909-103009",
+            "syncToken": "20260914-111700",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/iclc-graphics.jpg"
         }
     ]
