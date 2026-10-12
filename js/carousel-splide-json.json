@@ -7,7 +7,7 @@
             "promoType": "registration-open",
             "startDate": "1787547600000",
             "endDate": "1798696800000",
-            "syncToken": "20260923-100858",
+            "syncToken": "20261012-083911",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/blinn-registration-2nd-8-week-graphics-fall-2026.jpg"
         },
         {
@@ -17,7 +17,7 @@
             "promoType": "whats-new",
             "startDate": "1777611600000",
             "endDate": "1798747200000",
-            "syncToken": "20260923-100858",
+            "syncToken": "20261012-083911",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/transfer-intent-form_ig.jpg"
         },
         {
@@ -27,7 +27,7 @@
             "promoType": "whats-new",
             "startDate": "1780462800000",
             "endDate": "1798696800000",
-            "syncToken": "20260923-100858",
+            "syncToken": "20261012-083911",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/emergency-medical-technician-certification-waller-campus.jpg"
         },
         {
@@ -37,7 +37,7 @@
             "promoType": "whats-new",
             "startDate": "1784091600000",
             "endDate": "1797314400000",
-            "syncToken": "20260923-100858",
+            "syncToken": "20261012-083911",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/library-cloudlibrary-launch-campaign_ig.jpg"
         },
         {
@@ -47,7 +47,7 @@
             "promoType": "whats-new",
             "startDate": "1787115600000",
             "endDate": "1798696800000",
-            "syncToken": "20260923-100858",
+            "syncToken": "20261012-083911",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/music-tuesday-evening-choral-society2_fall-2026_ig.jpg"
         },
         {
@@ -57,7 +57,7 @@
             "promoType": "whats-new",
             "startDate": "1787115600000",
             "endDate": "1798696800000",
-            "syncToken": "20260923-100858",
+            "syncToken": "20261012-083911",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/criminal-justice-drone-specialization-new-osa-and-certificate_ig.jpg"
         },
         {
@@ -67,8 +67,18 @@
             "promoType": "whats-new",
             "startDate": "1788930000000",
             "endDate": "1798696800000",
-            "syncToken": "20260923-100858",
+            "syncToken": "20261012-083911",
             "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/iclc-graphics.jpg"
+        },
+        {
+            "alt": "Play in the Binn Band Graphic",
+            "title": "Play in the Binn Band",
+            "link": "https://www.blinn.edu/band",
+            "promoType": "whats-new",
+            "startDate": "1791781200000",
+            "endDate": "1798696800000",
+            "syncToken": "20261012-083911",
+            "image": "https://cdn.jsdelivr.net/gh/raulgonzalez77/splide@main/images/music-band-recruitment-scholarship.jpg"
         }
     ]
 }
